@@ -1,0 +1,6 @@
+downloads/*
+zipped/*
+**/*.zip
+**/*.xls
+csv/*
+logs/*
